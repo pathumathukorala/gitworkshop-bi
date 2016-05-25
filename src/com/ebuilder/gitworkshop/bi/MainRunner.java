@@ -8,5 +8,9 @@ public class MainRunner {
 		System.out.print("This is the best day of my life!!!!");
 		//System.out.print("function two goes in here");
 	}
+	
+	private String trimString(String toBeTrimmed) {
+		return toBeTrimmed.trim();
+	}
 
 }
