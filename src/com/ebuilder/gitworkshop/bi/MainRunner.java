@@ -24,5 +24,12 @@ public class MainRunner {
 	private String trimString(String toBeTrimmed) {
 		return toBeTrimmed.trim();
 	}
+	
+	private void veryComplexFunction(String s1, String s2, String s3, boolean bool) {
+		
+		// Complex code logic resides here
+		// Need a review.
+		
+	}
 
 }
