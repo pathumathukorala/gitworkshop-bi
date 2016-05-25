@@ -5,6 +5,7 @@ public class MainRunner {
 	public static void main(String[] args) {
 		
 		System.out.println("Initial function goes here");
+		System.out.print("This is the best day of my life!!!!");
 
 	}
 
